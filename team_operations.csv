@@ -1,0 +1,9 @@
+team,employees,productive_hours_per_employee,required_hours,completed_cases,revenue,variable_cost
+North Sales,8,152,1120,980,62000,21000
+South Sales,6,148,840,760,48500,16500
+Customer Success,7,150,1010,920,51500,13800
+Operations,5,155,760,710,43000,12500
+Enterprise Desk,4,150,610,540,52000,11800
+Digital Support,5,145,690,630,36500,10200
+Partner Management,6,150,880,790,47000,15400
+Renewals,5,152,735,670,45500,13200
